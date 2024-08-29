@@ -1,0 +1,14 @@
+.click,
+.not-click {
+    font-size: 28px;
+    font: Helvetica, "Times New Roman", sans-serif;
+}
+
+.click {
+    background-color: black;
+    color: white;
+}
+
+.not-click {
+    background-color: yellow;
+}
