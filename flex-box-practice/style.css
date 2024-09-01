@@ -1,0 +1,49 @@
+body {
+    background: lightcyan;
+}
+
+.help {
+    width: 600px;
+    height: auto;
+    background-color: limegreen;
+    border: 4px solid lime;
+    margin: 0 auto;
+    padding: 12px;
+}
+
+.one {
+    width: auto;
+    height: 100px;
+    background-color: salmon;
+    border: 4px solid tomato;
+    margin: 0 auto;
+    display: flex;
+}
+
+.one .blem {
+    background-color: lightblue;
+    border: 4px solid blue;
+    margin: 8px;
+    flex: 1;
+}
+
+.one .special {
+    display: flex;
+}
+
+.special .skeppy {
+    background-color: lightcoral;
+    border: 4px solid coral;
+    margin: 5px;
+    flex: 1;
+}
+
+.two {
+    width: auto;
+    height: 250px;
+}
+
+.three {
+    width: auto;
+    height: 75px;
+}
